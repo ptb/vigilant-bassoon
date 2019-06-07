@@ -1,1 +1,3 @@
+#+HTML: <details>
 #+HTML: <script type="module">import { css } from "http://unpkg.com/@amory/style/esm/style.js"; console.log (css)</script>
+#+HTML: </details>
